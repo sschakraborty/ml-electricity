@@ -1,0 +1,68 @@
+Enter cost per unit of consumption: Using path predict.csv for test data
+Deserializing model from context.nn
+Model deserialized and loaded...
+Reading test data (input) from predict.csv
+Read test data
+Staging input...
+Staging complete
+Reading data for calculating mean
+
+Equipment Name / Instrument 		 Mean Consumption 	 Pred. Consumption 	 Mean Cost 		 Pred. Cost
+---------------------------------------------------------------------------------------------------------------------------
+Solar PV System              		 100.803335 		 273.973207 		 555.7288 		 1510.4143
+Heat Pump - Outside Unit     		 33.328649 		 146.981727 		 183.7408 		 810.3103
+Heat Pump - Inside Unit      		 85.077901 		 35.103590 		 469.0345 		 193.5261
+Hot Water Heater             		 45.690611 		 35.051831 		 251.8923 		 193.2407
+Remaining level 1 plus + DAS 		 3.197560 		 28.075189 		 17.6281 		 154.7785
+Human Generator - Kitchen    		 18.608690 		 19.393563 		 102.5897 		 106.9167
+Washing Machine              		 2.465586 		 1.221336 		 13.5928 		 6.7332
+Dryer                        		 42.233586 		 1.119229 		 232.8338 		 6.1703
+Lights + fans + stair lights 		 31.749084 		 0.399026 		 175.0327 		 2.1998
+
+Equipment Name / Instrument 		 Mean Consumption 	 Pred. Consumption 	 Mean Cost 		 Pred. Cost
+---------------------------------------------------------------------------------------------------------------------------
+Solar PV System              		 100.803335 		 334.620230 		 555.7288 		 1844.7613
+Heat Pump - Outside Unit     		 33.328649 		 109.562994 		 183.7408 		 604.0208
+Hot Water Heater             		 85.077901 		 63.967164 		 469.0345 		 352.6510
+Dryer                        		 45.690611 		 34.728462 		 251.8923 		 191.4580
+Remaining level 1 plus + DAS 		 3.197560 		 30.132667 		 17.6281 		 166.1214
+Human Generator - Kitchen    		 18.608690 		 21.045705 		 102.5897 		 116.0250
+Heat Pump - Inside Unit      		 2.465586 		 5.483146 		 13.5928 		 30.2286
+Washing Machine              		 42.233586 		 4.691663 		 232.8338 		 25.8651
+Lights + fans + stair lights 		 31.749084 		 0.783134 		 175.0327 		 4.3174
+
+Equipment Name / Instrument 		 Mean Consumption 	 Pred. Consumption 	 Mean Cost 		 Pred. Cost
+---------------------------------------------------------------------------------------------------------------------------
+Heat Pump - Inside Unit      		 100.803335 		 171.654509 		 555.7288 		 946.3313
+Heat Pump - Outside Unit     		 33.328649 		 104.335736 		 183.7408 		 575.2029
+Remaining level 1 plus + DAS 		 85.077901 		 41.145906 		 469.0345 		 226.8374
+Hot Water Heater             		 45.690611 		 34.008952 		 251.8923 		 187.4914
+Human Generator - Kitchen    		 3.197560 		 25.590491 		 17.6281 		 141.0804
+Dryer                        		 18.608690 		 6.314871 		 102.5897 		 34.8139
+Lights + fans + stair lights 		 2.465586 		 3.000246 		 13.5928 		 16.5404
+Washing Machine              		 42.233586 		 0.988354 		 232.8338 		 5.4488
+Solar PV System              		 31.749084 		 0.320201 		 175.0327 		 1.7653
+
+Equipment Name / Instrument 		 Mean Consumption 	 Pred. Consumption 	 Mean Cost 		 Pred. Cost
+---------------------------------------------------------------------------------------------------------------------------
+Solar PV System              		 100.803335 		 362.175856 		 555.7288 		 1996.6755
+Heat Pump - Outside Unit     		 33.328649 		 127.816872 		 183.7408 		 704.6544
+Human Generator - Kitchen    		 85.077901 		 42.682346 		 469.0345 		 235.3078
+Remaining level 1 plus + DAS 		 45.690611 		 29.496448 		 251.8923 		 162.6139
+Hot Water Heater             		 3.197560 		 21.503856 		 17.6281 		 118.5508
+Heat Pump - Inside Unit      		 18.608690 		 6.120090 		 102.5897 		 33.7401
+Dryer                        		 2.465586 		 3.502442 		 13.5928 		 19.3090
+Lights + fans + stair lights 		 42.233586 		 2.349485 		 232.8338 		 12.9527
+Washing Machine              		 31.749084 		 1.158639 		 175.0327 		 6.3876
+
+Equipment Name / Instrument 		 Mean Consumption 	 Pred. Consumption 	 Mean Cost 		 Pred. Cost
+---------------------------------------------------------------------------------------------------------------------------
+Solar PV System              		 100.803335 		 362.128543 		 555.7288 		 1996.4147
+Heat Pump - Outside Unit     		 33.328649 		 75.403227 		 183.7408 		 415.6980
+Human Generator - Kitchen    		 85.077901 		 50.824907 		 469.0345 		 280.1977
+Remaining level 1 plus + DAS 		 45.690611 		 30.255123 		 251.8923 		 166.7965
+Heat Pump - Inside Unit      		 3.197560 		 8.947495 		 17.6281 		 49.3275
+Dryer                        		 18.608690 		 3.004740 		 102.5897 		 16.5651
+Lights + fans + stair lights 		 2.465586 		 1.390504 		 13.5928 		 7.6658
+Hot Water Heater             		 42.233586 		 0.990459 		 232.8338 		 5.4604
+Washing Machine              		 31.749084 		 0.102581 		 175.0327 		 0.5655
